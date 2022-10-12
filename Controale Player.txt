@@ -1,0 +1,14 @@
+#######################################
+##########[CONTROALE PLAYER]###########
+#######################################
+
+<><><>[CAND E VIU]<><><>
+- A: deplasare la stanga;
+- D: deplasare la dreapta;
+- SPACE: salt ce e mai sus cu cat tii apasat mai mult (pana in limita prestabilita)
+- F: interactiune cu ceva lazi si zaruri
+
+xxxxxx[CAND E MORT]xxxxxx 
+- R: restartare nivel/scena
+- ESC: pentru a iesi din nivel/scena/joc
+
